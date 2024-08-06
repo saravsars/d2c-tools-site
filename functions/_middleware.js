@@ -18,8 +18,8 @@ export async function onRequest(context) {
   }
 
   // Metatags Variables (edit these!)
-  const metatitle = "Cloudflare Pages Template"
-  const metadescription = "Get started with Cloudflare Pages by deploying this pretty simple template on your own account, and start playing around."
+  const metatitle = "D2C Tools"
+  const metadescription = "Get started with your D2C journey with this pretty simple platform, and start playing around."
 
   let name = searchParams.get('myQuery')
   let ogtag
